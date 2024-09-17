@@ -1,0 +1,21 @@
+{
+  "name": "grounded-light",
+  "displayName": "Grounded Light",
+  "description": "Cozy theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Grounded Light",
+        "uiTheme": "vs",
+        "path": "./themes/Grounded Light-color-theme.json"
+      }
+    ]
+  }
+}
